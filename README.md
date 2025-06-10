@@ -68,3 +68,9 @@ call.on('error', (err) => {
 
 ## License
 MIT
+
+---
+
+**Signaling Server**
+
+This library is designed to work seamlessly with the [better-peer-server](https://github.com/yourusername/better-peer-server) signaling server. See the [better-peer-server](https://github.com/yourusername/better-peer-server) repo for deployment and integration details.
