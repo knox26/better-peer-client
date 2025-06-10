@@ -1,0 +1,16 @@
+{
+  "name": "better-peer",
+  "version": "0.1.0",
+  "description": "A simple, modern WebRTC peer-to-peer library.",
+  "main": "./index.js",
+  "type": "module",
+  "exports": {
+    ".": "./index.js",
+    "./peer": "./peer.js",
+    "./connection": "./connection.js",
+    "./signaling": "./signaling.js"
+  },
+  "keywords": ["webrtc", "peer-to-peer", "p2p", "javascript", "library"],
+  "author": "",
+  "license": "MIT"
+}
