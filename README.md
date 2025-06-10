@@ -73,4 +73,4 @@ MIT
 
 **Signaling Server**
 
-This library is designed to work seamlessly with the [better-peer-server](https://github.com/yourusername/better-peer-server) signaling server. See the [better-peer-server](https://github.com/yourusername/better-peer-server) repo for deployment and integration details.
+This library is designed to work seamlessly with the [better-peer-server](https://github.com/knox26/better-peer-server) signaling server. See the [better-peer-server](https://github.com/knox26/better-peer-server) repo for deployment and integration details.
